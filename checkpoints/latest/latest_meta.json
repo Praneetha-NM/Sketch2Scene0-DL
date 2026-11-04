@@ -1,0 +1,16 @@
+{
+  "epoch": 10,
+  "metrics": {
+    "gen_total_loss": 45.162142524719236,
+    "gen_gan_loss": 2.8928491177596154,
+    "gen_l1_loss": 0.422692934696873,
+    "disc_loss": 0.1997915361650909,
+    "val_gen_total_loss": 63.669855143229164,
+    "val_gen_gan_loss": 0.635262542963028,
+    "val_gen_l1_loss": 0.6303459282716115,
+    "val_disc_loss": 0.723867834409078
+  },
+  "validation_criterion": "val_gen_l1_loss",
+  "validation_criterion_value": 0.6303459282716115,
+  "latest_checkpoint": "/Users/praneetha18/Sketch2Photo-DL/checkpoints/latest/ckpt_latest-13"
+}

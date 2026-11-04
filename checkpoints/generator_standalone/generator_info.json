@@ -1,0 +1,5 @@
+{
+  "image_size": 128,
+  "channels": 3,
+  "epoch": 10
+}
